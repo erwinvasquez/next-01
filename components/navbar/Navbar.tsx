@@ -1,7 +1,5 @@
 
 
-
-import Home from '@/app/page'
 import { HomeIcon } from '@primer/octicons-react'
 import Link from 'next/link'
 import React from 'react'
